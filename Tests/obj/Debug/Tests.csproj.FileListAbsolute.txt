@@ -1,0 +1,17 @@
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\LoadTest.loadtest
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Thinktecture.IdentityServer.Tests.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Thinktecture.IdentityServer.Tests.pdb
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Microsoft.Json.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Microsoft.Net.Http.Formatting.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Microsoft.Server.Common.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\System.Net.Http.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Thinktecture.IdentityServer.Core.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Thinktecture.IdentityModel.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Thinktecture.IdentityServer.Core.pdb
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Microsoft.Json.xml
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Microsoft.Net.Http.Formatting.xml
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\System.Net.Http.xml
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\bin\Debug\Thinktecture.IdentityModel.xml
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\obj\Debug\Thinktecture.IdentityServer.Tests.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Tests\obj\Debug\Thinktecture.IdentityServer.Tests.pdb

@@ -25,8 +25,8 @@ namespace Thinktecture.IdentityServer.Tests
 
         RequestSecurityToken _rst;
 
-        string baseAddressUserName = Constants.WSTrust.LocalMixedUserName;
-        //string baseAddressUserName = Constants.WSTrust.CloudMixedUserName;
+        //string baseAddressUserName = Constants.WSTrust.LocalMixedUserName;
+        string baseAddressUserName = Constants.WSTrust.CloudMixedUserName;
         
         string baseAddressCertificate = Constants.WSTrust.LocalMixedCertificate;
 

@@ -1,0 +1,5 @@
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\build\Common\Thinktecture.IdentityServer.Web.Library.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\build\Common\Thinktecture.IdentityServer.Web.Library.pdb
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Thinktecture.IdentityServer.Web.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Thinktecture.IdentityServer.Web.Library\obj\Debug\Thinktecture.IdentityServer.Web.Library.dll
+C:\Users\Johnny\Documents\Thinktecture.IdentityServer\Thinktecture.IdentityServer.Web.Library\obj\Debug\Thinktecture.IdentityServer.Web.Library.pdb
